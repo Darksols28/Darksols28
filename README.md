@@ -1,2 +1,1 @@
-## Hi
-🍕This is a c# based calculator🍕
+## Hi this is a c# based calculator
